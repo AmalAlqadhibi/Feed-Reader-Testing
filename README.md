@@ -10,7 +10,7 @@ https://github.com/AmalAlqadhibi/Feed-Reader-Testing
 4. Open the jasmine/spec/feedreader.js file to start editing the test suites.
 
 ## Clone the repository
-1. On GitHub, navigate to the main page of the repository.The URL for repository https://github.com/AmalAlqadhibi/Classic-Arcade-Game
+1. On GitHub, navigate to the main page of the repository.The URL for repository https://github.com/AmalAlqadhibi/Feed-Reader-Testing
 2. Under the repository name, click Clone or download.
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link .
 4. Open Terminal.
